@@ -1,0 +1,1320 @@
+Detecting C OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_a45c7/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_a45c7.dir/build.make CMakeFiles/cmTC_a45c7.dir/build
+Building C object CMakeFiles/cmTC_a45c7.dir/OpenMPTryFlag.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -fopenmp=libomp -v -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_a45c7.dir/OpenMPTryFlag.c.o -MF CMakeFiles/cmTC_a45c7.dir/OpenMPTryFlag.c.o.d -o CMakeFiles/cmTC_a45c7.dir/OpenMPTryFlag.c.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported argument 'libomp' to option '-fopenmp='
+make[1]: *** [CMakeFiles/cmTC_a45c7.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_a45c7/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_3fbfd/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_3fbfd.dir/build.make CMakeFiles/cmTC_3fbfd.dir/build
+Building C object CMakeFiles/cmTC_3fbfd.dir/OpenMPTryFlag.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -fopenmp=libiomp5 -v -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_3fbfd.dir/OpenMPTryFlag.c.o -MF CMakeFiles/cmTC_3fbfd.dir/OpenMPTryFlag.c.o.d -o CMakeFiles/cmTC_3fbfd.dir/OpenMPTryFlag.c.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported argument 'libiomp5' to option '-fopenmp='
+make[1]: *** [CMakeFiles/cmTC_3fbfd.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_3fbfd/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_907ce/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_907ce.dir/build.make CMakeFiles/cmTC_907ce.dir/build
+Building C object CMakeFiles/cmTC_907ce.dir/OpenMPTryFlag.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -fopenmp -v -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_907ce.dir/OpenMPTryFlag.c.o -MF CMakeFiles/cmTC_907ce.dir/OpenMPTryFlag.c.o.d -o CMakeFiles/cmTC_907ce.dir/OpenMPTryFlag.c.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported option '-fopenmp'
+make[1]: *** [CMakeFiles/cmTC_907ce.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_907ce/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_313e6/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_313e6.dir/build.make CMakeFiles/cmTC_313e6.dir/build
+Building C object CMakeFiles/cmTC_313e6.dir/OpenMPTryFlag.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -Xclang -fopenmp -v -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_313e6.dir/OpenMPTryFlag.c.o -MF CMakeFiles/cmTC_313e6.dir/OpenMPTryFlag.c.o.d -o CMakeFiles/cmTC_313e6.dir/OpenMPTryFlag.c.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+ "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx14.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name OpenMPTryFlag.c -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=14.2 -fvisibility-inlines-hidden-static-local-var -target-cpu apple-m1 -target-feature +v8.5a -target-feature +crc -target-feature +lse -target-feature +rdm -target-feature +crypto -target-feature +dotprod -target-feature +fp-armv8 -target-feature +neon -target-feature +fp16fml -target-feature +ras -target-feature +rcpc -target-feature +zcm -target-feature +zcz -target-feature +fullfp16 -target-feature +sm4 -target-feature +sha3 -target-feature +sha2 -target-feature +aes -target-abi darwinpcs -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=lldb -target-linker-version 1022.1 -v -fcoverage-compilation-dir=/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0 -dependency-file CMakeFiles/cmTC_313e6.dir/OpenMPTryFlag.c.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_313e6.dir/OpenMPTryFlag.c.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -fdebug-compilation-dir=/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fmax-type-align=16 -fcommon -fopenmp -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -mllvm -disable-aligned-alloc-awareness=1 -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_313e6.dir/OpenMPTryFlag.c.o -x c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+clang -cc1 version 15.0.0 (clang-1500.1.0.2.5) default target arm64-apple-darwin23.2.0
+ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/local/include"
+ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/Library/Frameworks"
+#include "..." search starts here:
+#include <...> search starts here:
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include
+ /Library/Developer/CommandLineTools/usr/include
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks (framework directory)
+End of search list.
+/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c:2:10: fatal error: 'omp.h' file not found
+#include <omp.h>
+         ^~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_313e6.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_313e6/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_0ca16/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_0ca16.dir/build.make CMakeFiles/cmTC_0ca16.dir/build
+Building CXX object CMakeFiles/cmTC_0ca16.dir/OpenMPTryFlag.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++   -fopenmp=libomp -v -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_0ca16.dir/OpenMPTryFlag.cpp.o -MF CMakeFiles/cmTC_0ca16.dir/OpenMPTryFlag.cpp.o.d -o CMakeFiles/cmTC_0ca16.dir/OpenMPTryFlag.cpp.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported argument 'libomp' to option '-fopenmp='
+make[1]: *** [CMakeFiles/cmTC_0ca16.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_0ca16/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_51958/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_51958.dir/build.make CMakeFiles/cmTC_51958.dir/build
+Building CXX object CMakeFiles/cmTC_51958.dir/OpenMPTryFlag.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++   -fopenmp=libiomp5 -v -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_51958.dir/OpenMPTryFlag.cpp.o -MF CMakeFiles/cmTC_51958.dir/OpenMPTryFlag.cpp.o.d -o CMakeFiles/cmTC_51958.dir/OpenMPTryFlag.cpp.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported argument 'libiomp5' to option '-fopenmp='
+make[1]: *** [CMakeFiles/cmTC_51958.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_51958/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_c8c16/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_c8c16.dir/build.make CMakeFiles/cmTC_c8c16.dir/build
+Building CXX object CMakeFiles/cmTC_c8c16.dir/OpenMPTryFlag.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++   -fopenmp -v -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_c8c16.dir/OpenMPTryFlag.cpp.o -MF CMakeFiles/cmTC_c8c16.dir/OpenMPTryFlag.cpp.o.d -o CMakeFiles/cmTC_c8c16.dir/OpenMPTryFlag.cpp.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported option '-fopenmp'
+make[1]: *** [CMakeFiles/cmTC_c8c16.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_c8c16/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_0fc43/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_0fc43.dir/build.make CMakeFiles/cmTC_0fc43.dir/build
+Building CXX object CMakeFiles/cmTC_0fc43.dir/OpenMPTryFlag.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++   -Xclang -fopenmp -v -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_0fc43.dir/OpenMPTryFlag.cpp.o -MF CMakeFiles/cmTC_0fc43.dir/OpenMPTryFlag.cpp.o.d -o CMakeFiles/cmTC_0fc43.dir/OpenMPTryFlag.cpp.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+ "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx14.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name OpenMPTryFlag.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=14.2 -fvisibility-inlines-hidden-static-local-var -target-cpu apple-m1 -target-feature +v8.5a -target-feature +crc -target-feature +lse -target-feature +rdm -target-feature +crypto -target-feature +dotprod -target-feature +fp-armv8 -target-feature +neon -target-feature +fp16fml -target-feature +ras -target-feature +rcpc -target-feature +zcm -target-feature +zcz -target-feature +fullfp16 -target-feature +sm4 -target-feature +sha3 -target-feature +sha2 -target-feature +aes -target-abi darwinpcs -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=lldb -target-linker-version 1022.1 -v -fcoverage-compilation-dir=/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0 -dependency-file CMakeFiles/cmTC_0fc43.dir/OpenMPTryFlag.cpp.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_0fc43.dir/OpenMPTryFlag.cpp.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1 -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -std=gnu++14 -fdeprecated-macro -fdebug-compilation-dir=/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fno-cxx-modules -fcxx-exceptions -fexceptions -fmax-type-align=16 -fcommon -fopenmp -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -mllvm -disable-aligned-alloc-awareness=1 -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_0fc43.dir/OpenMPTryFlag.cpp.o -x c++ /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+clang -cc1 version 15.0.0 (clang-1500.1.0.2.5) default target arm64-apple-darwin23.2.0
+ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/local/include"
+ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/Library/Frameworks"
+#include "..." search starts here:
+#include <...> search starts here:
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include
+ /Library/Developer/CommandLineTools/usr/include
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks (framework directory)
+End of search list.
+/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp:2:10: fatal error: 'omp.h' file not found
+#include <omp.h>
+         ^~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_0fc43.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_0fc43/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_d3389/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_d3389.dir/build.make CMakeFiles/cmTC_d3389.dir/build
+Building C object CMakeFiles/cmTC_d3389.dir/OpenMPTryFlag.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -fopenmp=libomp -v -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_d3389.dir/OpenMPTryFlag.c.o -MF CMakeFiles/cmTC_d3389.dir/OpenMPTryFlag.c.o.d -o CMakeFiles/cmTC_d3389.dir/OpenMPTryFlag.c.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported argument 'libomp' to option '-fopenmp='
+make[1]: *** [CMakeFiles/cmTC_d3389.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_d3389/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_30b22/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_30b22.dir/build.make CMakeFiles/cmTC_30b22.dir/build
+Building C object CMakeFiles/cmTC_30b22.dir/OpenMPTryFlag.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -fopenmp=libiomp5 -v -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_30b22.dir/OpenMPTryFlag.c.o -MF CMakeFiles/cmTC_30b22.dir/OpenMPTryFlag.c.o.d -o CMakeFiles/cmTC_30b22.dir/OpenMPTryFlag.c.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported argument 'libiomp5' to option '-fopenmp='
+make[1]: *** [CMakeFiles/cmTC_30b22.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_30b22/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_8d3ee/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_8d3ee.dir/build.make CMakeFiles/cmTC_8d3ee.dir/build
+Building C object CMakeFiles/cmTC_8d3ee.dir/OpenMPTryFlag.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -fopenmp -v -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_8d3ee.dir/OpenMPTryFlag.c.o -MF CMakeFiles/cmTC_8d3ee.dir/OpenMPTryFlag.c.o.d -o CMakeFiles/cmTC_8d3ee.dir/OpenMPTryFlag.c.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported option '-fopenmp'
+make[1]: *** [CMakeFiles/cmTC_8d3ee.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_8d3ee/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_a607c/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_a607c.dir/build.make CMakeFiles/cmTC_a607c.dir/build
+Building C object CMakeFiles/cmTC_a607c.dir/OpenMPTryFlag.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -Xclang -fopenmp -v -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_a607c.dir/OpenMPTryFlag.c.o -MF CMakeFiles/cmTC_a607c.dir/OpenMPTryFlag.c.o.d -o CMakeFiles/cmTC_a607c.dir/OpenMPTryFlag.c.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+ "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx14.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name OpenMPTryFlag.c -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=14.2 -fvisibility-inlines-hidden-static-local-var -target-cpu apple-m1 -target-feature +v8.5a -target-feature +crc -target-feature +lse -target-feature +rdm -target-feature +crypto -target-feature +dotprod -target-feature +fp-armv8 -target-feature +neon -target-feature +fp16fml -target-feature +ras -target-feature +rcpc -target-feature +zcm -target-feature +zcz -target-feature +fullfp16 -target-feature +sm4 -target-feature +sha3 -target-feature +sha2 -target-feature +aes -target-abi darwinpcs -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=lldb -target-linker-version 1022.1 -v -fcoverage-compilation-dir=/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0 -dependency-file CMakeFiles/cmTC_a607c.dir/OpenMPTryFlag.c.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_a607c.dir/OpenMPTryFlag.c.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -fdebug-compilation-dir=/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fmax-type-align=16 -fcommon -fopenmp -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -mllvm -disable-aligned-alloc-awareness=1 -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_a607c.dir/OpenMPTryFlag.c.o -x c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+clang -cc1 version 15.0.0 (clang-1500.1.0.2.5) default target arm64-apple-darwin23.2.0
+ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/local/include"
+ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/Library/Frameworks"
+#include "..." search starts here:
+#include <...> search starts here:
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include
+ /Library/Developer/CommandLineTools/usr/include
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks (framework directory)
+End of search list.
+/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c:2:10: fatal error: 'omp.h' file not found
+#include <omp.h>
+         ^~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_a607c.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_a607c/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_45613/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_45613.dir/build.make CMakeFiles/cmTC_45613.dir/build
+Building CXX object CMakeFiles/cmTC_45613.dir/OpenMPTryFlag.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++   -fopenmp=libomp -v -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_45613.dir/OpenMPTryFlag.cpp.o -MF CMakeFiles/cmTC_45613.dir/OpenMPTryFlag.cpp.o.d -o CMakeFiles/cmTC_45613.dir/OpenMPTryFlag.cpp.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported argument 'libomp' to option '-fopenmp='
+make[1]: *** [CMakeFiles/cmTC_45613.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_45613/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_2a824/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_2a824.dir/build.make CMakeFiles/cmTC_2a824.dir/build
+Building CXX object CMakeFiles/cmTC_2a824.dir/OpenMPTryFlag.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++   -fopenmp=libiomp5 -v -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_2a824.dir/OpenMPTryFlag.cpp.o -MF CMakeFiles/cmTC_2a824.dir/OpenMPTryFlag.cpp.o.d -o CMakeFiles/cmTC_2a824.dir/OpenMPTryFlag.cpp.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported argument 'libiomp5' to option '-fopenmp='
+make[1]: *** [CMakeFiles/cmTC_2a824.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_2a824/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_ca413/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_ca413.dir/build.make CMakeFiles/cmTC_ca413.dir/build
+Building CXX object CMakeFiles/cmTC_ca413.dir/OpenMPTryFlag.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++   -fopenmp -v -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_ca413.dir/OpenMPTryFlag.cpp.o -MF CMakeFiles/cmTC_ca413.dir/OpenMPTryFlag.cpp.o.d -o CMakeFiles/cmTC_ca413.dir/OpenMPTryFlag.cpp.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported option '-fopenmp'
+make[1]: *** [CMakeFiles/cmTC_ca413.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_ca413/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_ddebd/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_ddebd.dir/build.make CMakeFiles/cmTC_ddebd.dir/build
+Building CXX object CMakeFiles/cmTC_ddebd.dir/OpenMPTryFlag.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++   -Xclang -fopenmp -v -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_ddebd.dir/OpenMPTryFlag.cpp.o -MF CMakeFiles/cmTC_ddebd.dir/OpenMPTryFlag.cpp.o.d -o CMakeFiles/cmTC_ddebd.dir/OpenMPTryFlag.cpp.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+ "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx14.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name OpenMPTryFlag.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=14.2 -fvisibility-inlines-hidden-static-local-var -target-cpu apple-m1 -target-feature +v8.5a -target-feature +crc -target-feature +lse -target-feature +rdm -target-feature +crypto -target-feature +dotprod -target-feature +fp-armv8 -target-feature +neon -target-feature +fp16fml -target-feature +ras -target-feature +rcpc -target-feature +zcm -target-feature +zcz -target-feature +fullfp16 -target-feature +sm4 -target-feature +sha3 -target-feature +sha2 -target-feature +aes -target-abi darwinpcs -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=lldb -target-linker-version 1022.1 -v -fcoverage-compilation-dir=/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0 -dependency-file CMakeFiles/cmTC_ddebd.dir/OpenMPTryFlag.cpp.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_ddebd.dir/OpenMPTryFlag.cpp.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1 -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -std=gnu++14 -fdeprecated-macro -fdebug-compilation-dir=/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fno-cxx-modules -fcxx-exceptions -fexceptions -fmax-type-align=16 -fcommon -fopenmp -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -mllvm -disable-aligned-alloc-awareness=1 -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_ddebd.dir/OpenMPTryFlag.cpp.o -x c++ /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+clang -cc1 version 15.0.0 (clang-1500.1.0.2.5) default target arm64-apple-darwin23.2.0
+ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/local/include"
+ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/Library/Frameworks"
+#include "..." search starts here:
+#include <...> search starts here:
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include
+ /Library/Developer/CommandLineTools/usr/include
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks (framework directory)
+End of search list.
+/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp:2:10: fatal error: 'omp.h' file not found
+#include <omp.h>
+         ^~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_ddebd.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_ddebd/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_89098/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_89098.dir/build.make CMakeFiles/cmTC_89098.dir/build
+Building C object CMakeFiles/cmTC_89098.dir/OpenMPTryFlag.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -fopenmp=libomp -v -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_89098.dir/OpenMPTryFlag.c.o -MF CMakeFiles/cmTC_89098.dir/OpenMPTryFlag.c.o.d -o CMakeFiles/cmTC_89098.dir/OpenMPTryFlag.c.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported argument 'libomp' to option '-fopenmp='
+make[1]: *** [CMakeFiles/cmTC_89098.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_89098/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_72446/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_72446.dir/build.make CMakeFiles/cmTC_72446.dir/build
+Building C object CMakeFiles/cmTC_72446.dir/OpenMPTryFlag.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -fopenmp=libiomp5 -v -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_72446.dir/OpenMPTryFlag.c.o -MF CMakeFiles/cmTC_72446.dir/OpenMPTryFlag.c.o.d -o CMakeFiles/cmTC_72446.dir/OpenMPTryFlag.c.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported argument 'libiomp5' to option '-fopenmp='
+make[1]: *** [CMakeFiles/cmTC_72446.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_72446/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_b5122/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_b5122.dir/build.make CMakeFiles/cmTC_b5122.dir/build
+Building C object CMakeFiles/cmTC_b5122.dir/OpenMPTryFlag.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -fopenmp -v -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_b5122.dir/OpenMPTryFlag.c.o -MF CMakeFiles/cmTC_b5122.dir/OpenMPTryFlag.c.o.d -o CMakeFiles/cmTC_b5122.dir/OpenMPTryFlag.c.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported option '-fopenmp'
+make[1]: *** [CMakeFiles/cmTC_b5122.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_b5122/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_478bd/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_478bd.dir/build.make CMakeFiles/cmTC_478bd.dir/build
+Building C object CMakeFiles/cmTC_478bd.dir/OpenMPTryFlag.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -Xclang -fopenmp -v -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_478bd.dir/OpenMPTryFlag.c.o -MF CMakeFiles/cmTC_478bd.dir/OpenMPTryFlag.c.o.d -o CMakeFiles/cmTC_478bd.dir/OpenMPTryFlag.c.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+ "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx14.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name OpenMPTryFlag.c -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=14.2 -fvisibility-inlines-hidden-static-local-var -target-cpu apple-m1 -target-feature +v8.5a -target-feature +crc -target-feature +lse -target-feature +rdm -target-feature +crypto -target-feature +dotprod -target-feature +fp-armv8 -target-feature +neon -target-feature +fp16fml -target-feature +ras -target-feature +rcpc -target-feature +zcm -target-feature +zcz -target-feature +fullfp16 -target-feature +sm4 -target-feature +sha3 -target-feature +sha2 -target-feature +aes -target-abi darwinpcs -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=lldb -target-linker-version 1022.1 -v -fcoverage-compilation-dir=/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0 -dependency-file CMakeFiles/cmTC_478bd.dir/OpenMPTryFlag.c.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_478bd.dir/OpenMPTryFlag.c.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -fdebug-compilation-dir=/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fmax-type-align=16 -fcommon -fopenmp -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -mllvm -disable-aligned-alloc-awareness=1 -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_478bd.dir/OpenMPTryFlag.c.o -x c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+clang -cc1 version 15.0.0 (clang-1500.1.0.2.5) default target arm64-apple-darwin23.2.0
+ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/local/include"
+ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/Library/Frameworks"
+#include "..." search starts here:
+#include <...> search starts here:
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include
+ /Library/Developer/CommandLineTools/usr/include
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks (framework directory)
+End of search list.
+/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c:2:10: fatal error: 'omp.h' file not found
+#include <omp.h>
+         ^~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_478bd.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_478bd/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_60baf/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_60baf.dir/build.make CMakeFiles/cmTC_60baf.dir/build
+Building CXX object CMakeFiles/cmTC_60baf.dir/OpenMPTryFlag.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++   -fopenmp=libomp -v -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_60baf.dir/OpenMPTryFlag.cpp.o -MF CMakeFiles/cmTC_60baf.dir/OpenMPTryFlag.cpp.o.d -o CMakeFiles/cmTC_60baf.dir/OpenMPTryFlag.cpp.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported argument 'libomp' to option '-fopenmp='
+make[1]: *** [CMakeFiles/cmTC_60baf.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_60baf/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_98cda/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_98cda.dir/build.make CMakeFiles/cmTC_98cda.dir/build
+Building CXX object CMakeFiles/cmTC_98cda.dir/OpenMPTryFlag.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++   -fopenmp=libiomp5 -v -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_98cda.dir/OpenMPTryFlag.cpp.o -MF CMakeFiles/cmTC_98cda.dir/OpenMPTryFlag.cpp.o.d -o CMakeFiles/cmTC_98cda.dir/OpenMPTryFlag.cpp.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported argument 'libiomp5' to option '-fopenmp='
+make[1]: *** [CMakeFiles/cmTC_98cda.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_98cda/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_5476a/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_5476a.dir/build.make CMakeFiles/cmTC_5476a.dir/build
+Building CXX object CMakeFiles/cmTC_5476a.dir/OpenMPTryFlag.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++   -fopenmp -v -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_5476a.dir/OpenMPTryFlag.cpp.o -MF CMakeFiles/cmTC_5476a.dir/OpenMPTryFlag.cpp.o.d -o CMakeFiles/cmTC_5476a.dir/OpenMPTryFlag.cpp.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported option '-fopenmp'
+make[1]: *** [CMakeFiles/cmTC_5476a.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_5476a/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_dfebb/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_dfebb.dir/build.make CMakeFiles/cmTC_dfebb.dir/build
+Building CXX object CMakeFiles/cmTC_dfebb.dir/OpenMPTryFlag.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++   -Xclang -fopenmp -v -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_dfebb.dir/OpenMPTryFlag.cpp.o -MF CMakeFiles/cmTC_dfebb.dir/OpenMPTryFlag.cpp.o.d -o CMakeFiles/cmTC_dfebb.dir/OpenMPTryFlag.cpp.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+ "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx14.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name OpenMPTryFlag.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=14.2 -fvisibility-inlines-hidden-static-local-var -target-cpu apple-m1 -target-feature +v8.5a -target-feature +crc -target-feature +lse -target-feature +rdm -target-feature +crypto -target-feature +dotprod -target-feature +fp-armv8 -target-feature +neon -target-feature +fp16fml -target-feature +ras -target-feature +rcpc -target-feature +zcm -target-feature +zcz -target-feature +fullfp16 -target-feature +sm4 -target-feature +sha3 -target-feature +sha2 -target-feature +aes -target-abi darwinpcs -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=lldb -target-linker-version 1022.1 -v -fcoverage-compilation-dir=/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0 -dependency-file CMakeFiles/cmTC_dfebb.dir/OpenMPTryFlag.cpp.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_dfebb.dir/OpenMPTryFlag.cpp.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1 -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -std=gnu++14 -fdeprecated-macro -fdebug-compilation-dir=/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fno-cxx-modules -fcxx-exceptions -fexceptions -fmax-type-align=16 -fcommon -fopenmp -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -mllvm -disable-aligned-alloc-awareness=1 -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_dfebb.dir/OpenMPTryFlag.cpp.o -x c++ /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+clang -cc1 version 15.0.0 (clang-1500.1.0.2.5) default target arm64-apple-darwin23.2.0
+ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/local/include"
+ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/Library/Frameworks"
+#include "..." search starts here:
+#include <...> search starts here:
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include
+ /Library/Developer/CommandLineTools/usr/include
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks (framework directory)
+End of search list.
+/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp:2:10: fatal error: 'omp.h' file not found
+#include <omp.h>
+         ^~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_dfebb.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_dfebb/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_36cbd/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_36cbd.dir/build.make CMakeFiles/cmTC_36cbd.dir/build
+Building C object CMakeFiles/cmTC_36cbd.dir/OpenMPTryFlag.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -fopenmp=libomp -v -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_36cbd.dir/OpenMPTryFlag.c.o -MF CMakeFiles/cmTC_36cbd.dir/OpenMPTryFlag.c.o.d -o CMakeFiles/cmTC_36cbd.dir/OpenMPTryFlag.c.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported argument 'libomp' to option '-fopenmp='
+make[1]: *** [CMakeFiles/cmTC_36cbd.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_36cbd/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_7732f/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_7732f.dir/build.make CMakeFiles/cmTC_7732f.dir/build
+Building C object CMakeFiles/cmTC_7732f.dir/OpenMPTryFlag.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -fopenmp=libiomp5 -v -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_7732f.dir/OpenMPTryFlag.c.o -MF CMakeFiles/cmTC_7732f.dir/OpenMPTryFlag.c.o.d -o CMakeFiles/cmTC_7732f.dir/OpenMPTryFlag.c.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported argument 'libiomp5' to option '-fopenmp='
+make[1]: *** [CMakeFiles/cmTC_7732f.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_7732f/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_516e9/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_516e9.dir/build.make CMakeFiles/cmTC_516e9.dir/build
+Building C object CMakeFiles/cmTC_516e9.dir/OpenMPTryFlag.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -fopenmp -v -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_516e9.dir/OpenMPTryFlag.c.o -MF CMakeFiles/cmTC_516e9.dir/OpenMPTryFlag.c.o.d -o CMakeFiles/cmTC_516e9.dir/OpenMPTryFlag.c.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported option '-fopenmp'
+make[1]: *** [CMakeFiles/cmTC_516e9.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_516e9/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_7592a/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_7592a.dir/build.make CMakeFiles/cmTC_7592a.dir/build
+Building C object CMakeFiles/cmTC_7592a.dir/OpenMPTryFlag.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -Xclang -fopenmp -v -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_7592a.dir/OpenMPTryFlag.c.o -MF CMakeFiles/cmTC_7592a.dir/OpenMPTryFlag.c.o.d -o CMakeFiles/cmTC_7592a.dir/OpenMPTryFlag.c.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+ "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx14.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name OpenMPTryFlag.c -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=14.2 -fvisibility-inlines-hidden-static-local-var -target-cpu apple-m1 -target-feature +v8.5a -target-feature +crc -target-feature +lse -target-feature +rdm -target-feature +crypto -target-feature +dotprod -target-feature +fp-armv8 -target-feature +neon -target-feature +fp16fml -target-feature +ras -target-feature +rcpc -target-feature +zcm -target-feature +zcz -target-feature +fullfp16 -target-feature +sm4 -target-feature +sha3 -target-feature +sha2 -target-feature +aes -target-abi darwinpcs -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=lldb -target-linker-version 1022.1 -v -fcoverage-compilation-dir=/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0 -dependency-file CMakeFiles/cmTC_7592a.dir/OpenMPTryFlag.c.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_7592a.dir/OpenMPTryFlag.c.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -fdebug-compilation-dir=/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fmax-type-align=16 -fcommon -fopenmp -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -mllvm -disable-aligned-alloc-awareness=1 -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_7592a.dir/OpenMPTryFlag.c.o -x c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+clang -cc1 version 15.0.0 (clang-1500.1.0.2.5) default target arm64-apple-darwin23.2.0
+ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/local/include"
+ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/Library/Frameworks"
+#include "..." search starts here:
+#include <...> search starts here:
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include
+ /Library/Developer/CommandLineTools/usr/include
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks (framework directory)
+End of search list.
+/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c:2:10: fatal error: 'omp.h' file not found
+#include <omp.h>
+         ^~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_7592a.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_7592a/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_ac503/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_ac503.dir/build.make CMakeFiles/cmTC_ac503.dir/build
+Building CXX object CMakeFiles/cmTC_ac503.dir/OpenMPTryFlag.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++   -fopenmp=libomp -v -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_ac503.dir/OpenMPTryFlag.cpp.o -MF CMakeFiles/cmTC_ac503.dir/OpenMPTryFlag.cpp.o.d -o CMakeFiles/cmTC_ac503.dir/OpenMPTryFlag.cpp.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported argument 'libomp' to option '-fopenmp='
+make[1]: *** [CMakeFiles/cmTC_ac503.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_ac503/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_98f4d/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_98f4d.dir/build.make CMakeFiles/cmTC_98f4d.dir/build
+Building CXX object CMakeFiles/cmTC_98f4d.dir/OpenMPTryFlag.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++   -fopenmp=libiomp5 -v -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_98f4d.dir/OpenMPTryFlag.cpp.o -MF CMakeFiles/cmTC_98f4d.dir/OpenMPTryFlag.cpp.o.d -o CMakeFiles/cmTC_98f4d.dir/OpenMPTryFlag.cpp.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported argument 'libiomp5' to option '-fopenmp='
+make[1]: *** [CMakeFiles/cmTC_98f4d.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_98f4d/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_a93ce/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_a93ce.dir/build.make CMakeFiles/cmTC_a93ce.dir/build
+Building CXX object CMakeFiles/cmTC_a93ce.dir/OpenMPTryFlag.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++   -fopenmp -v -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_a93ce.dir/OpenMPTryFlag.cpp.o -MF CMakeFiles/cmTC_a93ce.dir/OpenMPTryFlag.cpp.o.d -o CMakeFiles/cmTC_a93ce.dir/OpenMPTryFlag.cpp.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported option '-fopenmp'
+make[1]: *** [CMakeFiles/cmTC_a93ce.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_a93ce/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_503e1/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_503e1.dir/build.make CMakeFiles/cmTC_503e1.dir/build
+Building CXX object CMakeFiles/cmTC_503e1.dir/OpenMPTryFlag.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++   -Xclang -fopenmp -v -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_503e1.dir/OpenMPTryFlag.cpp.o -MF CMakeFiles/cmTC_503e1.dir/OpenMPTryFlag.cpp.o.d -o CMakeFiles/cmTC_503e1.dir/OpenMPTryFlag.cpp.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+ "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx14.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name OpenMPTryFlag.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=14.2 -fvisibility-inlines-hidden-static-local-var -target-cpu apple-m1 -target-feature +v8.5a -target-feature +crc -target-feature +lse -target-feature +rdm -target-feature +crypto -target-feature +dotprod -target-feature +fp-armv8 -target-feature +neon -target-feature +fp16fml -target-feature +ras -target-feature +rcpc -target-feature +zcm -target-feature +zcz -target-feature +fullfp16 -target-feature +sm4 -target-feature +sha3 -target-feature +sha2 -target-feature +aes -target-abi darwinpcs -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=lldb -target-linker-version 1022.1 -v -fcoverage-compilation-dir=/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0 -dependency-file CMakeFiles/cmTC_503e1.dir/OpenMPTryFlag.cpp.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_503e1.dir/OpenMPTryFlag.cpp.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1 -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -std=gnu++14 -fdeprecated-macro -fdebug-compilation-dir=/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fno-cxx-modules -fcxx-exceptions -fexceptions -fmax-type-align=16 -fcommon -fopenmp -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -mllvm -disable-aligned-alloc-awareness=1 -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_503e1.dir/OpenMPTryFlag.cpp.o -x c++ /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+clang -cc1 version 15.0.0 (clang-1500.1.0.2.5) default target arm64-apple-darwin23.2.0
+ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/local/include"
+ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/Library/Frameworks"
+#include "..." search starts here:
+#include <...> search starts here:
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include
+ /Library/Developer/CommandLineTools/usr/include
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks (framework directory)
+End of search list.
+/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp:2:10: fatal error: 'omp.h' file not found
+#include <omp.h>
+         ^~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_503e1.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_503e1/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_a0282/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_a0282.dir/build.make CMakeFiles/cmTC_a0282.dir/build
+Building C object CMakeFiles/cmTC_a0282.dir/OpenMPTryFlag.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -fopenmp=libomp -v -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_a0282.dir/OpenMPTryFlag.c.o -MF CMakeFiles/cmTC_a0282.dir/OpenMPTryFlag.c.o.d -o CMakeFiles/cmTC_a0282.dir/OpenMPTryFlag.c.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported argument 'libomp' to option '-fopenmp='
+make[1]: *** [CMakeFiles/cmTC_a0282.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_a0282/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_f02a4/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_f02a4.dir/build.make CMakeFiles/cmTC_f02a4.dir/build
+Building C object CMakeFiles/cmTC_f02a4.dir/OpenMPTryFlag.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -fopenmp=libiomp5 -v -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_f02a4.dir/OpenMPTryFlag.c.o -MF CMakeFiles/cmTC_f02a4.dir/OpenMPTryFlag.c.o.d -o CMakeFiles/cmTC_f02a4.dir/OpenMPTryFlag.c.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported argument 'libiomp5' to option '-fopenmp='
+make[1]: *** [CMakeFiles/cmTC_f02a4.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_f02a4/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_aa6fa/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_aa6fa.dir/build.make CMakeFiles/cmTC_aa6fa.dir/build
+Building C object CMakeFiles/cmTC_aa6fa.dir/OpenMPTryFlag.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -fopenmp -v -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_aa6fa.dir/OpenMPTryFlag.c.o -MF CMakeFiles/cmTC_aa6fa.dir/OpenMPTryFlag.c.o.d -o CMakeFiles/cmTC_aa6fa.dir/OpenMPTryFlag.c.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported option '-fopenmp'
+make[1]: *** [CMakeFiles/cmTC_aa6fa.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_aa6fa/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_554c2/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_554c2.dir/build.make CMakeFiles/cmTC_554c2.dir/build
+Building C object CMakeFiles/cmTC_554c2.dir/OpenMPTryFlag.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -Xclang -fopenmp -v -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_554c2.dir/OpenMPTryFlag.c.o -MF CMakeFiles/cmTC_554c2.dir/OpenMPTryFlag.c.o.d -o CMakeFiles/cmTC_554c2.dir/OpenMPTryFlag.c.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+ "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx14.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name OpenMPTryFlag.c -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=14.2 -fvisibility-inlines-hidden-static-local-var -target-cpu apple-m1 -target-feature +v8.5a -target-feature +crc -target-feature +lse -target-feature +rdm -target-feature +crypto -target-feature +dotprod -target-feature +fp-armv8 -target-feature +neon -target-feature +fp16fml -target-feature +ras -target-feature +rcpc -target-feature +zcm -target-feature +zcz -target-feature +fullfp16 -target-feature +sm4 -target-feature +sha3 -target-feature +sha2 -target-feature +aes -target-abi darwinpcs -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=lldb -target-linker-version 1022.1 -v -fcoverage-compilation-dir=/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0 -dependency-file CMakeFiles/cmTC_554c2.dir/OpenMPTryFlag.c.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_554c2.dir/OpenMPTryFlag.c.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -fdebug-compilation-dir=/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fmax-type-align=16 -fcommon -fopenmp -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -mllvm -disable-aligned-alloc-awareness=1 -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_554c2.dir/OpenMPTryFlag.c.o -x c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+clang -cc1 version 15.0.0 (clang-1500.1.0.2.5) default target arm64-apple-darwin23.2.0
+ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/local/include"
+ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/Library/Frameworks"
+#include "..." search starts here:
+#include <...> search starts here:
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include
+ /Library/Developer/CommandLineTools/usr/include
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks (framework directory)
+End of search list.
+/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c:2:10: fatal error: 'omp.h' file not found
+#include <omp.h>
+         ^~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_554c2.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_554c2/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_3b5b6/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_3b5b6.dir/build.make CMakeFiles/cmTC_3b5b6.dir/build
+Building CXX object CMakeFiles/cmTC_3b5b6.dir/OpenMPTryFlag.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++   -fopenmp=libomp -v -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_3b5b6.dir/OpenMPTryFlag.cpp.o -MF CMakeFiles/cmTC_3b5b6.dir/OpenMPTryFlag.cpp.o.d -o CMakeFiles/cmTC_3b5b6.dir/OpenMPTryFlag.cpp.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported argument 'libomp' to option '-fopenmp='
+make[1]: *** [CMakeFiles/cmTC_3b5b6.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_3b5b6/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_d5def/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_d5def.dir/build.make CMakeFiles/cmTC_d5def.dir/build
+Building CXX object CMakeFiles/cmTC_d5def.dir/OpenMPTryFlag.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++   -fopenmp=libiomp5 -v -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_d5def.dir/OpenMPTryFlag.cpp.o -MF CMakeFiles/cmTC_d5def.dir/OpenMPTryFlag.cpp.o.d -o CMakeFiles/cmTC_d5def.dir/OpenMPTryFlag.cpp.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported argument 'libiomp5' to option '-fopenmp='
+make[1]: *** [CMakeFiles/cmTC_d5def.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_d5def/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_d9cdd/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_d9cdd.dir/build.make CMakeFiles/cmTC_d9cdd.dir/build
+Building CXX object CMakeFiles/cmTC_d9cdd.dir/OpenMPTryFlag.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++   -fopenmp -v -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_d9cdd.dir/OpenMPTryFlag.cpp.o -MF CMakeFiles/cmTC_d9cdd.dir/OpenMPTryFlag.cpp.o.d -o CMakeFiles/cmTC_d9cdd.dir/OpenMPTryFlag.cpp.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported option '-fopenmp'
+make[1]: *** [CMakeFiles/cmTC_d9cdd.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_d9cdd/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_7ebea/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_7ebea.dir/build.make CMakeFiles/cmTC_7ebea.dir/build
+Building CXX object CMakeFiles/cmTC_7ebea.dir/OpenMPTryFlag.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++   -Xclang -fopenmp -v -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_7ebea.dir/OpenMPTryFlag.cpp.o -MF CMakeFiles/cmTC_7ebea.dir/OpenMPTryFlag.cpp.o.d -o CMakeFiles/cmTC_7ebea.dir/OpenMPTryFlag.cpp.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+ "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx14.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name OpenMPTryFlag.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=14.2 -fvisibility-inlines-hidden-static-local-var -target-cpu apple-m1 -target-feature +v8.5a -target-feature +crc -target-feature +lse -target-feature +rdm -target-feature +crypto -target-feature +dotprod -target-feature +fp-armv8 -target-feature +neon -target-feature +fp16fml -target-feature +ras -target-feature +rcpc -target-feature +zcm -target-feature +zcz -target-feature +fullfp16 -target-feature +sm4 -target-feature +sha3 -target-feature +sha2 -target-feature +aes -target-abi darwinpcs -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=lldb -target-linker-version 1022.1 -v -fcoverage-compilation-dir=/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0 -dependency-file CMakeFiles/cmTC_7ebea.dir/OpenMPTryFlag.cpp.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_7ebea.dir/OpenMPTryFlag.cpp.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1 -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -std=gnu++14 -fdeprecated-macro -fdebug-compilation-dir=/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fno-cxx-modules -fcxx-exceptions -fexceptions -fmax-type-align=16 -fcommon -fopenmp -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -mllvm -disable-aligned-alloc-awareness=1 -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_7ebea.dir/OpenMPTryFlag.cpp.o -x c++ /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+clang -cc1 version 15.0.0 (clang-1500.1.0.2.5) default target arm64-apple-darwin23.2.0
+ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/local/include"
+ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/Library/Frameworks"
+#include "..." search starts here:
+#include <...> search starts here:
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include
+ /Library/Developer/CommandLineTools/usr/include
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks (framework directory)
+End of search list.
+/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp:2:10: fatal error: 'omp.h' file not found
+#include <omp.h>
+         ^~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_7ebea.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_7ebea/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_fc053/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_fc053.dir/build.make CMakeFiles/cmTC_fc053.dir/build
+Building C object CMakeFiles/cmTC_fc053.dir/OpenMPTryFlag.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -fopenmp=libomp -v -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_fc053.dir/OpenMPTryFlag.c.o -MF CMakeFiles/cmTC_fc053.dir/OpenMPTryFlag.c.o.d -o CMakeFiles/cmTC_fc053.dir/OpenMPTryFlag.c.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported argument 'libomp' to option '-fopenmp='
+make[1]: *** [CMakeFiles/cmTC_fc053.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_fc053/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_83b7f/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_83b7f.dir/build.make CMakeFiles/cmTC_83b7f.dir/build
+Building C object CMakeFiles/cmTC_83b7f.dir/OpenMPTryFlag.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -fopenmp=libiomp5 -v -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_83b7f.dir/OpenMPTryFlag.c.o -MF CMakeFiles/cmTC_83b7f.dir/OpenMPTryFlag.c.o.d -o CMakeFiles/cmTC_83b7f.dir/OpenMPTryFlag.c.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported argument 'libiomp5' to option '-fopenmp='
+make[1]: *** [CMakeFiles/cmTC_83b7f.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_83b7f/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_1fab8/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_1fab8.dir/build.make CMakeFiles/cmTC_1fab8.dir/build
+Building C object CMakeFiles/cmTC_1fab8.dir/OpenMPTryFlag.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -fopenmp -v -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_1fab8.dir/OpenMPTryFlag.c.o -MF CMakeFiles/cmTC_1fab8.dir/OpenMPTryFlag.c.o.d -o CMakeFiles/cmTC_1fab8.dir/OpenMPTryFlag.c.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported option '-fopenmp'
+make[1]: *** [CMakeFiles/cmTC_1fab8.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_1fab8/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_8c24a/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_8c24a.dir/build.make CMakeFiles/cmTC_8c24a.dir/build
+Building C object CMakeFiles/cmTC_8c24a.dir/OpenMPTryFlag.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -Xclang -fopenmp -v -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_8c24a.dir/OpenMPTryFlag.c.o -MF CMakeFiles/cmTC_8c24a.dir/OpenMPTryFlag.c.o.d -o CMakeFiles/cmTC_8c24a.dir/OpenMPTryFlag.c.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+ "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx14.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name OpenMPTryFlag.c -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=14.2 -fvisibility-inlines-hidden-static-local-var -target-cpu apple-m1 -target-feature +v8.5a -target-feature +crc -target-feature +lse -target-feature +rdm -target-feature +crypto -target-feature +dotprod -target-feature +fp-armv8 -target-feature +neon -target-feature +fp16fml -target-feature +ras -target-feature +rcpc -target-feature +zcm -target-feature +zcz -target-feature +fullfp16 -target-feature +sm4 -target-feature +sha3 -target-feature +sha2 -target-feature +aes -target-abi darwinpcs -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=lldb -target-linker-version 1022.1 -v -fcoverage-compilation-dir=/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0 -dependency-file CMakeFiles/cmTC_8c24a.dir/OpenMPTryFlag.c.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_8c24a.dir/OpenMPTryFlag.c.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -fdebug-compilation-dir=/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fmax-type-align=16 -fcommon -fopenmp -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -mllvm -disable-aligned-alloc-awareness=1 -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_8c24a.dir/OpenMPTryFlag.c.o -x c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+clang -cc1 version 15.0.0 (clang-1500.1.0.2.5) default target arm64-apple-darwin23.2.0
+ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/local/include"
+ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/Library/Frameworks"
+#include "..." search starts here:
+#include <...> search starts here:
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include
+ /Library/Developer/CommandLineTools/usr/include
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks (framework directory)
+End of search list.
+/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c:2:10: fatal error: 'omp.h' file not found
+#include <omp.h>
+         ^~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_8c24a.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_8c24a/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_2d2f8/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_2d2f8.dir/build.make CMakeFiles/cmTC_2d2f8.dir/build
+Building CXX object CMakeFiles/cmTC_2d2f8.dir/OpenMPTryFlag.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++   -fopenmp=libomp -v -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_2d2f8.dir/OpenMPTryFlag.cpp.o -MF CMakeFiles/cmTC_2d2f8.dir/OpenMPTryFlag.cpp.o.d -o CMakeFiles/cmTC_2d2f8.dir/OpenMPTryFlag.cpp.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported argument 'libomp' to option '-fopenmp='
+make[1]: *** [CMakeFiles/cmTC_2d2f8.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_2d2f8/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_f1894/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_f1894.dir/build.make CMakeFiles/cmTC_f1894.dir/build
+Building CXX object CMakeFiles/cmTC_f1894.dir/OpenMPTryFlag.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++   -fopenmp=libiomp5 -v -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_f1894.dir/OpenMPTryFlag.cpp.o -MF CMakeFiles/cmTC_f1894.dir/OpenMPTryFlag.cpp.o.d -o CMakeFiles/cmTC_f1894.dir/OpenMPTryFlag.cpp.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported argument 'libiomp5' to option '-fopenmp='
+make[1]: *** [CMakeFiles/cmTC_f1894.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_f1894/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_a9a37/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_a9a37.dir/build.make CMakeFiles/cmTC_a9a37.dir/build
+Building CXX object CMakeFiles/cmTC_a9a37.dir/OpenMPTryFlag.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++   -fopenmp -v -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_a9a37.dir/OpenMPTryFlag.cpp.o -MF CMakeFiles/cmTC_a9a37.dir/OpenMPTryFlag.cpp.o.d -o CMakeFiles/cmTC_a9a37.dir/OpenMPTryFlag.cpp.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported option '-fopenmp'
+make[1]: *** [CMakeFiles/cmTC_a9a37.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_a9a37/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_174db/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_174db.dir/build.make CMakeFiles/cmTC_174db.dir/build
+Building CXX object CMakeFiles/cmTC_174db.dir/OpenMPTryFlag.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++   -Xclang -fopenmp -v -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_174db.dir/OpenMPTryFlag.cpp.o -MF CMakeFiles/cmTC_174db.dir/OpenMPTryFlag.cpp.o.d -o CMakeFiles/cmTC_174db.dir/OpenMPTryFlag.cpp.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+ "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx14.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name OpenMPTryFlag.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=14.2 -fvisibility-inlines-hidden-static-local-var -target-cpu apple-m1 -target-feature +v8.5a -target-feature +crc -target-feature +lse -target-feature +rdm -target-feature +crypto -target-feature +dotprod -target-feature +fp-armv8 -target-feature +neon -target-feature +fp16fml -target-feature +ras -target-feature +rcpc -target-feature +zcm -target-feature +zcz -target-feature +fullfp16 -target-feature +sm4 -target-feature +sha3 -target-feature +sha2 -target-feature +aes -target-abi darwinpcs -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=lldb -target-linker-version 1022.1 -v -fcoverage-compilation-dir=/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0 -dependency-file CMakeFiles/cmTC_174db.dir/OpenMPTryFlag.cpp.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_174db.dir/OpenMPTryFlag.cpp.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1 -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -std=gnu++14 -fdeprecated-macro -fdebug-compilation-dir=/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fno-cxx-modules -fcxx-exceptions -fexceptions -fmax-type-align=16 -fcommon -fopenmp -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -mllvm -disable-aligned-alloc-awareness=1 -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_174db.dir/OpenMPTryFlag.cpp.o -x c++ /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+clang -cc1 version 15.0.0 (clang-1500.1.0.2.5) default target arm64-apple-darwin23.2.0
+ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/local/include"
+ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/Library/Frameworks"
+#include "..." search starts here:
+#include <...> search starts here:
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include
+ /Library/Developer/CommandLineTools/usr/include
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks (framework directory)
+End of search list.
+/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp:2:10: fatal error: 'omp.h' file not found
+#include <omp.h>
+         ^~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_174db.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_174db/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_56572/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_56572.dir/build.make CMakeFiles/cmTC_56572.dir/build
+Building C object CMakeFiles/cmTC_56572.dir/OpenMPTryFlag.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -fopenmp=libomp -v -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_56572.dir/OpenMPTryFlag.c.o -MF CMakeFiles/cmTC_56572.dir/OpenMPTryFlag.c.o.d -o CMakeFiles/cmTC_56572.dir/OpenMPTryFlag.c.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported argument 'libomp' to option '-fopenmp='
+make[1]: *** [CMakeFiles/cmTC_56572.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_56572/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_d188e/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_d188e.dir/build.make CMakeFiles/cmTC_d188e.dir/build
+Building C object CMakeFiles/cmTC_d188e.dir/OpenMPTryFlag.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -fopenmp=libiomp5 -v -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_d188e.dir/OpenMPTryFlag.c.o -MF CMakeFiles/cmTC_d188e.dir/OpenMPTryFlag.c.o.d -o CMakeFiles/cmTC_d188e.dir/OpenMPTryFlag.c.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported argument 'libiomp5' to option '-fopenmp='
+make[1]: *** [CMakeFiles/cmTC_d188e.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_d188e/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_e104b/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_e104b.dir/build.make CMakeFiles/cmTC_e104b.dir/build
+Building C object CMakeFiles/cmTC_e104b.dir/OpenMPTryFlag.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -fopenmp -v -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_e104b.dir/OpenMPTryFlag.c.o -MF CMakeFiles/cmTC_e104b.dir/OpenMPTryFlag.c.o.d -o CMakeFiles/cmTC_e104b.dir/OpenMPTryFlag.c.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported option '-fopenmp'
+make[1]: *** [CMakeFiles/cmTC_e104b.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_e104b/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_57e39/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_57e39.dir/build.make CMakeFiles/cmTC_57e39.dir/build
+Building C object CMakeFiles/cmTC_57e39.dir/OpenMPTryFlag.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -Xclang -fopenmp -v -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_57e39.dir/OpenMPTryFlag.c.o -MF CMakeFiles/cmTC_57e39.dir/OpenMPTryFlag.c.o.d -o CMakeFiles/cmTC_57e39.dir/OpenMPTryFlag.c.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+ "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx14.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name OpenMPTryFlag.c -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=14.2 -fvisibility-inlines-hidden-static-local-var -target-cpu apple-m1 -target-feature +v8.5a -target-feature +crc -target-feature +lse -target-feature +rdm -target-feature +crypto -target-feature +dotprod -target-feature +fp-armv8 -target-feature +neon -target-feature +fp16fml -target-feature +ras -target-feature +rcpc -target-feature +zcm -target-feature +zcz -target-feature +fullfp16 -target-feature +sm4 -target-feature +sha3 -target-feature +sha2 -target-feature +aes -target-abi darwinpcs -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=lldb -target-linker-version 1022.1 -v -fcoverage-compilation-dir=/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0 -dependency-file CMakeFiles/cmTC_57e39.dir/OpenMPTryFlag.c.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_57e39.dir/OpenMPTryFlag.c.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -fdebug-compilation-dir=/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fmax-type-align=16 -fcommon -fopenmp -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -mllvm -disable-aligned-alloc-awareness=1 -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_57e39.dir/OpenMPTryFlag.c.o -x c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+clang -cc1 version 15.0.0 (clang-1500.1.0.2.5) default target arm64-apple-darwin23.2.0
+ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/local/include"
+ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/Library/Frameworks"
+#include "..." search starts here:
+#include <...> search starts here:
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include
+ /Library/Developer/CommandLineTools/usr/include
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks (framework directory)
+End of search list.
+/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c:2:10: fatal error: 'omp.h' file not found
+#include <omp.h>
+         ^~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_57e39.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_57e39/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_a7b01/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_a7b01.dir/build.make CMakeFiles/cmTC_a7b01.dir/build
+Building CXX object CMakeFiles/cmTC_a7b01.dir/OpenMPTryFlag.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++   -fopenmp=libomp -v -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_a7b01.dir/OpenMPTryFlag.cpp.o -MF CMakeFiles/cmTC_a7b01.dir/OpenMPTryFlag.cpp.o.d -o CMakeFiles/cmTC_a7b01.dir/OpenMPTryFlag.cpp.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported argument 'libomp' to option '-fopenmp='
+make[1]: *** [CMakeFiles/cmTC_a7b01.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_a7b01/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_8ffee/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_8ffee.dir/build.make CMakeFiles/cmTC_8ffee.dir/build
+Building CXX object CMakeFiles/cmTC_8ffee.dir/OpenMPTryFlag.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++   -fopenmp=libiomp5 -v -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_8ffee.dir/OpenMPTryFlag.cpp.o -MF CMakeFiles/cmTC_8ffee.dir/OpenMPTryFlag.cpp.o.d -o CMakeFiles/cmTC_8ffee.dir/OpenMPTryFlag.cpp.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported argument 'libiomp5' to option '-fopenmp='
+make[1]: *** [CMakeFiles/cmTC_8ffee.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_8ffee/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_7fca7/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_7fca7.dir/build.make CMakeFiles/cmTC_7fca7.dir/build
+Building CXX object CMakeFiles/cmTC_7fca7.dir/OpenMPTryFlag.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++   -fopenmp -v -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_7fca7.dir/OpenMPTryFlag.cpp.o -MF CMakeFiles/cmTC_7fca7.dir/OpenMPTryFlag.cpp.o.d -o CMakeFiles/cmTC_7fca7.dir/OpenMPTryFlag.cpp.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported option '-fopenmp'
+make[1]: *** [CMakeFiles/cmTC_7fca7.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_7fca7/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_aaeae/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_aaeae.dir/build.make CMakeFiles/cmTC_aaeae.dir/build
+Building CXX object CMakeFiles/cmTC_aaeae.dir/OpenMPTryFlag.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++   -Xclang -fopenmp -v -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_aaeae.dir/OpenMPTryFlag.cpp.o -MF CMakeFiles/cmTC_aaeae.dir/OpenMPTryFlag.cpp.o.d -o CMakeFiles/cmTC_aaeae.dir/OpenMPTryFlag.cpp.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+ "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx14.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name OpenMPTryFlag.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=14.2 -fvisibility-inlines-hidden-static-local-var -target-cpu apple-m1 -target-feature +v8.5a -target-feature +crc -target-feature +lse -target-feature +rdm -target-feature +crypto -target-feature +dotprod -target-feature +fp-armv8 -target-feature +neon -target-feature +fp16fml -target-feature +ras -target-feature +rcpc -target-feature +zcm -target-feature +zcz -target-feature +fullfp16 -target-feature +sm4 -target-feature +sha3 -target-feature +sha2 -target-feature +aes -target-abi darwinpcs -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=lldb -target-linker-version 1022.1 -v -fcoverage-compilation-dir=/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0 -dependency-file CMakeFiles/cmTC_aaeae.dir/OpenMPTryFlag.cpp.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_aaeae.dir/OpenMPTryFlag.cpp.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1 -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -std=gnu++14 -fdeprecated-macro -fdebug-compilation-dir=/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fno-cxx-modules -fcxx-exceptions -fexceptions -fmax-type-align=16 -fcommon -fopenmp -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -mllvm -disable-aligned-alloc-awareness=1 -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_aaeae.dir/OpenMPTryFlag.cpp.o -x c++ /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+clang -cc1 version 15.0.0 (clang-1500.1.0.2.5) default target arm64-apple-darwin23.2.0
+ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/local/include"
+ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/Library/Frameworks"
+#include "..." search starts here:
+#include <...> search starts here:
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include
+ /Library/Developer/CommandLineTools/usr/include
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks (framework directory)
+End of search list.
+/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp:2:10: fatal error: 'omp.h' file not found
+#include <omp.h>
+         ^~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_aaeae.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_aaeae/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_bdbdf/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_bdbdf.dir/build.make CMakeFiles/cmTC_bdbdf.dir/build
+Building C object CMakeFiles/cmTC_bdbdf.dir/OpenMPTryFlag.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -fopenmp=libomp -v -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_bdbdf.dir/OpenMPTryFlag.c.o -MF CMakeFiles/cmTC_bdbdf.dir/OpenMPTryFlag.c.o.d -o CMakeFiles/cmTC_bdbdf.dir/OpenMPTryFlag.c.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported argument 'libomp' to option '-fopenmp='
+make[1]: *** [CMakeFiles/cmTC_bdbdf.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_bdbdf/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_3dabd/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_3dabd.dir/build.make CMakeFiles/cmTC_3dabd.dir/build
+Building C object CMakeFiles/cmTC_3dabd.dir/OpenMPTryFlag.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -fopenmp=libiomp5 -v -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_3dabd.dir/OpenMPTryFlag.c.o -MF CMakeFiles/cmTC_3dabd.dir/OpenMPTryFlag.c.o.d -o CMakeFiles/cmTC_3dabd.dir/OpenMPTryFlag.c.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported argument 'libiomp5' to option '-fopenmp='
+make[1]: *** [CMakeFiles/cmTC_3dabd.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_3dabd/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_90294/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_90294.dir/build.make CMakeFiles/cmTC_90294.dir/build
+Building C object CMakeFiles/cmTC_90294.dir/OpenMPTryFlag.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -fopenmp -v -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_90294.dir/OpenMPTryFlag.c.o -MF CMakeFiles/cmTC_90294.dir/OpenMPTryFlag.c.o.d -o CMakeFiles/cmTC_90294.dir/OpenMPTryFlag.c.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported option '-fopenmp'
+make[1]: *** [CMakeFiles/cmTC_90294.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_90294/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_387b1/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_387b1.dir/build.make CMakeFiles/cmTC_387b1.dir/build
+Building C object CMakeFiles/cmTC_387b1.dir/OpenMPTryFlag.c.o
+/Library/Developer/CommandLineTools/usr/bin/cc   -Xclang -fopenmp -v -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_387b1.dir/OpenMPTryFlag.c.o -MF CMakeFiles/cmTC_387b1.dir/OpenMPTryFlag.c.o.d -o CMakeFiles/cmTC_387b1.dir/OpenMPTryFlag.c.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+ "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx14.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name OpenMPTryFlag.c -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=14.2 -fvisibility-inlines-hidden-static-local-var -target-cpu apple-m1 -target-feature +v8.5a -target-feature +crc -target-feature +lse -target-feature +rdm -target-feature +crypto -target-feature +dotprod -target-feature +fp-armv8 -target-feature +neon -target-feature +fp16fml -target-feature +ras -target-feature +rcpc -target-feature +zcm -target-feature +zcz -target-feature +fullfp16 -target-feature +sm4 -target-feature +sha3 -target-feature +sha2 -target-feature +aes -target-abi darwinpcs -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=lldb -target-linker-version 1022.1 -v -fcoverage-compilation-dir=/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0 -dependency-file CMakeFiles/cmTC_387b1.dir/OpenMPTryFlag.c.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_387b1.dir/OpenMPTryFlag.c.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -fdebug-compilation-dir=/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fmax-type-align=16 -fcommon -fopenmp -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -mllvm -disable-aligned-alloc-awareness=1 -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_387b1.dir/OpenMPTryFlag.c.o -x c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c
+clang -cc1 version 15.0.0 (clang-1500.1.0.2.5) default target arm64-apple-darwin23.2.0
+ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/local/include"
+ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/Library/Frameworks"
+#include "..." search starts here:
+#include <...> search starts here:
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include
+ /Library/Developer/CommandLineTools/usr/include
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks (framework directory)
+End of search list.
+/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.c:2:10: fatal error: 'omp.h' file not found
+#include <omp.h>
+         ^~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_387b1.dir/OpenMPTryFlag.c.o] Error 1
+make: *** [cmTC_387b1/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_351d9/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_351d9.dir/build.make CMakeFiles/cmTC_351d9.dir/build
+Building CXX object CMakeFiles/cmTC_351d9.dir/OpenMPTryFlag.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++   -fopenmp=libomp -v -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_351d9.dir/OpenMPTryFlag.cpp.o -MF CMakeFiles/cmTC_351d9.dir/OpenMPTryFlag.cpp.o.d -o CMakeFiles/cmTC_351d9.dir/OpenMPTryFlag.cpp.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported argument 'libomp' to option '-fopenmp='
+make[1]: *** [CMakeFiles/cmTC_351d9.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_351d9/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_9d7a9/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_9d7a9.dir/build.make CMakeFiles/cmTC_9d7a9.dir/build
+Building CXX object CMakeFiles/cmTC_9d7a9.dir/OpenMPTryFlag.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++   -fopenmp=libiomp5 -v -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_9d7a9.dir/OpenMPTryFlag.cpp.o -MF CMakeFiles/cmTC_9d7a9.dir/OpenMPTryFlag.cpp.o.d -o CMakeFiles/cmTC_9d7a9.dir/OpenMPTryFlag.cpp.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported argument 'libiomp5' to option '-fopenmp='
+make[1]: *** [CMakeFiles/cmTC_9d7a9.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_9d7a9/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_b45bc/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_b45bc.dir/build.make CMakeFiles/cmTC_b45bc.dir/build
+Building CXX object CMakeFiles/cmTC_b45bc.dir/OpenMPTryFlag.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++   -fopenmp -v -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_b45bc.dir/OpenMPTryFlag.cpp.o -MF CMakeFiles/cmTC_b45bc.dir/OpenMPTryFlag.cpp.o.d -o CMakeFiles/cmTC_b45bc.dir/OpenMPTryFlag.cpp.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+clang: error: unsupported option '-fopenmp'
+make[1]: *** [CMakeFiles/cmTC_b45bc.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_b45bc/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: '/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): /opt/homebrew/Cellar/cmake/3.28.1/bin/cmake -E env VERBOSE=1 /usr/bin/make -f Makefile cmTC_9d3c9/fast
+/Library/Developer/CommandLineTools/usr/bin/make  -f CMakeFiles/cmTC_9d3c9.dir/build.make CMakeFiles/cmTC_9d3c9.dir/build
+Building CXX object CMakeFiles/cmTC_9d3c9.dir/OpenMPTryFlag.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/c++   -Xclang -fopenmp -v -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -MD -MT CMakeFiles/cmTC_9d3c9.dir/OpenMPTryFlag.cpp.o -MF CMakeFiles/cmTC_9d3c9.dir/OpenMPTryFlag.cpp.o.d -o CMakeFiles/cmTC_9d3c9.dir/OpenMPTryFlag.cpp.o -c /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+Apple clang version 15.0.0 (clang-1500.1.0.2.5)
+Target: arm64-apple-darwin23.2.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+ "/Library/Developer/CommandLineTools/usr/bin/clang" -cc1 -triple arm64-apple-macosx14.0.0 -Wundef-prefix=TARGET_OS_ -Wdeprecated-objc-isa-usage -Werror=deprecated-objc-isa-usage -Werror=implicit-function-declaration -emit-obj -mrelax-all --mrelax-relocations -disable-free -clear-ast-before-backend -disable-llvm-verifier -discard-value-names -main-file-name OpenMPTryFlag.cpp -mrelocation-model pic -pic-level 2 -mframe-pointer=non-leaf -fno-strict-return -ffp-contract=on -fno-rounding-math -funwind-tables=1 -fobjc-msgsend-selector-stubs -target-sdk-version=14.2 -fvisibility-inlines-hidden-static-local-var -target-cpu apple-m1 -target-feature +v8.5a -target-feature +crc -target-feature +lse -target-feature +rdm -target-feature +crypto -target-feature +dotprod -target-feature +fp-armv8 -target-feature +neon -target-feature +fp16fml -target-feature +ras -target-feature +rcpc -target-feature +zcm -target-feature +zcz -target-feature +fullfp16 -target-feature +sm4 -target-feature +sha3 -target-feature +sha2 -target-feature +aes -target-abi darwinpcs -mllvm -treat-scalable-fixed-error-as-warning -debugger-tuning=lldb -target-linker-version 1022.1 -v -fcoverage-compilation-dir=/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp -resource-dir /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0 -dependency-file CMakeFiles/cmTC_9d3c9.dir/OpenMPTryFlag.cpp.o.d -skip-unused-modulemap-deps -MT CMakeFiles/cmTC_9d3c9.dir/OpenMPTryFlag.cpp.o -sys-header-deps -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1 -internal-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/local/include -internal-isystem /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include -internal-externc-isystem /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include -internal-externc-isystem /Library/Developer/CommandLineTools/usr/include -Wno-reorder-init-list -Wno-implicit-int-float-conversion -Wno-c99-designator -Wno-final-dtor-non-final-class -Wno-extra-semi-stmt -Wno-misleading-indentation -Wno-quoted-include-in-framework-header -Wno-implicit-fallthrough -Wno-enum-enum-conversion -Wno-enum-float-conversion -Wno-elaborated-enum-base -Wno-reserved-identifier -Wno-gnu-folding-constant -std=gnu++14 -fdeprecated-macro -fdebug-compilation-dir=/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/CMakeTmp -ferror-limit 19 -stack-protector 1 -fstack-check -mdarwin-stkchk-strong-link -fblocks -fencode-extended-block-signature -fregister-global-dtors-with-atexit -fgnuc-version=4.2.1 -fno-cxx-modules -fcxx-exceptions -fexceptions -fmax-type-align=16 -fcommon -fopenmp -clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation -fno-odr-hash-protocols -clang-vendor-feature=+enableAggressiveVLAFolding -clang-vendor-feature=+revert09abecef7bbf -clang-vendor-feature=+thisNoAlignAttr -clang-vendor-feature=+thisNoNullAttr -mllvm -disable-aligned-alloc-awareness=1 -D__GCC_HAVE_DWARF2_CFI_ASM=1 -o CMakeFiles/cmTC_9d3c9.dir/OpenMPTryFlag.cpp.o -x c++ /Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp
+clang -cc1 version 15.0.0 (clang-1500.1.0.2.5) default target arm64-apple-darwin23.2.0
+ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/local/include"
+ignoring nonexistent directory "/Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/Library/Frameworks"
+#include "..." search starts here:
+#include <...> search starts here:
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include/c++/v1
+ /Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/usr/include
+ /Library/Developer/CommandLineTools/usr/include
+ /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk/System/Library/Frameworks (framework directory)
+End of search list.
+/Users/quangtuongphung/myDev/sensorFusion_Cpp_2024/Lidar_Obstacle_Detection/build/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp:2:10: fatal error: 'omp.h' file not found
+#include <omp.h>
+         ^~~~~~~
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_9d3c9.dir/OpenMPTryFlag.cpp.o] Error 1
+make: *** [cmTC_9d3c9/fast] Error 2
+
+
+
